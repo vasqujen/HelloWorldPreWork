@@ -14,6 +14,13 @@ The following **required** functionality is completed:
 * [X] Button displayed on screen
 * [X] Toast with message appears when button is pressed
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented features:
+
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 ## Notes/Challenges
 
 Some of the challeges I faced while building the app was getting accustomed to the new language of Kotlin. Some of it is similar to java, therefore it's
